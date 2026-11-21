@@ -1,0 +1,6 @@
+{
+  "name": "DECO Course Hub & AI Syllabus Portal (U24EC304)",
+  "description": "Interactive academic dashboard, dual-track syllabus explorer, 60-lecture tracker, Drive repository browser, digital logic & hardware calculators, and NBA CO-PO-PSO quiz arena for LIET Autonomous U24EC304.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
